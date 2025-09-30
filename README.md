@@ -4,6 +4,8 @@
 
 This project analyzes Sydney's public transport system using GTFS (General Transit Feed Specification) data. The analysis provides insights into the city's transportation network, including busiest stops, routes, peak hours, and service patterns. The project processes raw GTFS data to generate visualizations and metrics that help understand Sydney's public transport efficiency and usage patterns.
 
+<img src="/pt_map.png?raw=true" />
+
 ## Features
 
 - **Data Processing**: Handles large GTFS datasets with efficient memory management
@@ -148,5 +150,6 @@ The project uses GTFS data from Sydney's public transport system, including:
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
 
 
